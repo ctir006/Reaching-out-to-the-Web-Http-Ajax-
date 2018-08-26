@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\src",
+    "\\src\\components",
+    "\\src\\components\\FullPost",
+    "\\src\\components\\NewPost",
+    "\\src\\components\\Post",
+    "\\src\\containers",
+    "\\src\\containers\\Blog"
+  ],
+  "SelectedNode": "\\.gitignore",
+  "PreviewInSolutionExplorer": false
+}
