@@ -3,12 +3,13 @@
     "",
     "\\src",
     "\\src\\components",
-    "\\src\\components\\FullPost",
-    "\\src\\components\\NewPost",
     "\\src\\components\\Post",
     "\\src\\containers",
-    "\\src\\containers\\Blog"
+    "\\src\\containers\\Blog",
+    "\\src\\containers\\Blog\\FullPost",
+    "\\src\\containers\\Blog\\NewPost",
+    "\\src\\containers\\Blog\\posts"
   ],
-  "SelectedNode": "\\.gitignore",
+  "SelectedNode": "\\src",
   "PreviewInSolutionExplorer": false
 }
